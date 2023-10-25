@@ -1,2 +1,2 @@
 build:
-	gcc main.c -lncurses
+	gcc src/main.c -lncurses
